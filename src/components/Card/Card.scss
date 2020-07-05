@@ -1,0 +1,25 @@
+.card-container-protocols, 
+.card-container-proposals {
+    width: 610px;
+    align-self: auto;
+}
+
+.card-container-tenants {
+    width: 400px;
+}
+
+.link-detail {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.87);
+    padding: 6px 16px;
+    font-size: 0.875rem;
+    min-width: 64px;
+    box-sizing: border-box;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+    line-height: 1.75;
+    border-radius: 4px;
+    letter-spacing: 0.02857em;
+    text-transform: uppercase;
+    border: 1px solid #c4c2c2;
+}

@@ -1,0 +1,18 @@
+.create-protocols-page-container {
+    padding:20px;
+   
+}
+
+.container {
+    display: flex;
+}
+
+.tenant-fieled-container {
+    flex: 1 1 50%;
+    padding: 10px;
+   
+}
+
+.tenant-fieled-container:first-of-type{
+    margin-right: 40px;
+}

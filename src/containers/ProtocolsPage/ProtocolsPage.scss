@@ -1,0 +1,31 @@
+.protocols-page-content-container,
+.protocols-page-header-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.protocols-page-content-container{
+   padding: 20px;
+   padding-left: 0;
+}
+.protocols-page-header-container {
+    padding: 0 10px;
+}
+.protocols-page {
+    &-container {
+        margin:0 auto;   
+        background-color: #f2f2f2;
+    }
+    
+    &-header-title {
+        color: #808080;
+        font-size: 26px;
+        font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    }
+    
+    &-content-separetor {
+        border:2px solid;
+        border-radius: 2px;
+    }
+}
+
